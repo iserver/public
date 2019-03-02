@@ -6,23 +6,50 @@
   "websites": [
     {
       "显示内容":"舆情热点和网络线索",
-      "url": "http://47.97.46.157:8005/newshow/blackTheme/compareWeibo.html",
-      "duration": 300,
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
       "tabReloadIntervalSeconds": 6000
     },       
     {
+      "显示内容":"光明日报",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1002",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明日报客户端",
       "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1298",
-      "duration": 300,
+      "duration": 5,
       "tabReloadIntervalSeconds": 6000
     },       
     {
-      "url": "http://gmw.chinaii.cn/orgadmin/bigScreen/screenHtml/index.jsp?mediaIDs=1002,1007,1143&initialPages=overView,articleRank,authorRank&adminID=4&autoplay=1",
-      "duration": 300,
+      "显示内容":"光明日报微博",
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
       "tabReloadIntervalSeconds": 6000
     },       
     {
-      "url": "http://gmw.chinaii.cn/orgadmin/bigScreen/screenHtml/index.jsp?mediaIDs=1002,1007,1143&initialPages=overView,articleRank,authorRank&adminID=4&autoplay=1",
-      "duration": 300,
+      "显示内容":"光明日报微信",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1143",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网微博",
+      "url": "http://apptrans.gmw.cn/node_121469.htm",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网微信",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1360",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "显示内容":"光明网原创",
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1007",
+      "duration": 5,
       "tabReloadIntervalSeconds": 6000
     }
 
