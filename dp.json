@@ -1,0 +1,30 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "显示内容":"舆情热点和网络线索",
+      "url": "http://47.97.46.157:8005/newshow/blackTheme/compareWeibo.html",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "url": "http://gmw.chinaii.cn/bigscreen/gmw/Article_Rank.jsp?mediaIDs=1298",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "url": "http://gmw.chinaii.cn/orgadmin/bigScreen/screenHtml/index.jsp?mediaIDs=1002,1007,1143&initialPages=overView,articleRank,authorRank&adminID=4&autoplay=1",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 6000
+    },       
+    {
+      "url": "http://gmw.chinaii.cn/orgadmin/bigScreen/screenHtml/index.jsp?mediaIDs=1002,1007,1143&initialPages=overView,articleRank,authorRank&adminID=4&autoplay=1",
+      "duration": 300,
+      "tabReloadIntervalSeconds": 6000
+    }
+
+  ]
+}
